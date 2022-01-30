@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Trujillo</h1>
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 - 🔭 I’m currently living in **Argentina BA**
