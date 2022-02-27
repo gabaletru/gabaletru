@@ -1,4 +1,4 @@
-<h1 align="center">Hi <a href="https://www.streamlinehq.com">Free Vulcan Salute 2 PNG emoji by Streamline</a>, I'm Gabriel</h1>
+<h1 align="center">Hi <a href="https://www.streamlinehq.com"></a>, I'm Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 - 🔭 I’m living in **Argentina BA**
