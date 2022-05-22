@@ -1,11 +1,11 @@
-<h2> 👋🏼I'm Gabriel!</h2>
+<h1> 👋🏼I'm Gabriel!</h2>
 <img align='right' src="https://blush.design/api/download?shareUri=sJrPqD8LBIGXMY3h&c=Skin_0%7Effdbb4&w=800&h=800&fm=png" width="230">
 <p><em>Front End Developer</em></p>
+<p>Always curious to learn cutting edge technology. A bit enthusiast towards web development<p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
+```
 const Gab = {
     pronouns: "He" | "Him",
     learned: ["HTML", "CSS", "Bootstrap", "Tailwind", "Bulma", "SASS", "GIT", "Javascript", "Typescript", "React"],
@@ -13,9 +13,6 @@ const Gab = {
     askMeAbout: ["web dev", "tech", "music", "art"],
 };
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
 ---
 <!--START_SECTION:waka-->
 **I'm an early 🐤** 
@@ -27,7 +24,7 @@ const Gab = {
 🌙 Night          ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 
 ```
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
