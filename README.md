@@ -1,7 +1,6 @@
-<h2> 👋🏼I'm Gabriel! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Front End Developer <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://blush.design/api/download?shareUri=sJrPqD8LBIGXMY3h&c=Skin_0%7Effdbb4&w=800&h=800&fm=png)" width="30"> 
-</em></p>
+<h2> 👋🏼I'm Gabriel!</h2>
+<img align='right' src="https://blush.design/api/download?shareUri=sJrPqD8LBIGXMY3h&c=Skin_0%7Effdbb4&w=800&h=800&fm=png" width="230">
+<p><em>Front End Developer</em></p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
