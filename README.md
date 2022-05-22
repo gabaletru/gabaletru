@@ -1,7 +1,7 @@
 <h1> 👋🏼I'm Gabriel!</h2>
 <img align='right' src="https://blush.design/api/download?shareUri=sJrPqD8LBIGXMY3h&c=Skin_0%7Effdbb4&w=800&h=800&fm=png" width="230">
-<p><em>Front End Developer</em></p>
-<p>Always curious to learn cutting edge technology. A bit enthusiast towards web development<p>
+<p><em>✨Front End Developer✨</em></p>
+<p>Always curious to learn cutting edge technology🚀 . A bit enthusiast towards web development<p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
