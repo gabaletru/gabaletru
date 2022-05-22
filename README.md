@@ -10,7 +10,7 @@ const Gab = {
     pronouns: "He" | "Him",
     learned: ["HTML", "CSS", "Bootstrap", "Tailwind", "Bulma", "SASS", "GIT", "Javascript", "Typescript", "React"],
     learning: ["React Native", "SQL"],
-    askMeAbout: ["web dev", "tech", "music", "art"],
+    askMeAbout: ["web dev", "tech", "music", "art", "video games"],
 };
 ```
 ---
